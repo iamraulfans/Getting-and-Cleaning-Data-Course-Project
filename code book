@@ -1,0 +1,7 @@
+"subject": identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
+"activity": activity taken by the subject
+
+The rest of data are means of variable names,  for each subject and each activity.
+
+std: standard deviation
+mean: mean
