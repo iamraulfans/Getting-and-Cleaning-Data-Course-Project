@@ -1,3 +1,5 @@
+##Please make sure to have the Samsung dataset directory under the working directory and named as "Dataset"
+
 ##generate row names
 features <- read.table("Dataset/features.txt")
 names <- as.character(features$V2)
